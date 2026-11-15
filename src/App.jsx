@@ -913,13 +913,13 @@ function Nav({ current = "home", theme, onThemeChange }) {
           Contact
         </a>
         <a
-          href="/Helen-Agbro-CV.pdf"
+          href="/Helen-Agbro-Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
-          className="nav-cv"
+          className="nav-resume"
           onClick={close}
         >
-          CV
+          Resume
           <ArrowIcon />
         </a>
       </nav>
